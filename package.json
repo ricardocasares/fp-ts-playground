@@ -1,0 +1,22 @@
+{
+  "name": "fp-ts-playground",
+  "version": "1.0.0",
+  "description": "fuck around and find out",
+  "keywords": [
+    "fp-ts"
+  ],
+  "license": "ISC",
+  "author": "@ricardocasares",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "fp-ts": "^2.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.10",
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.2"
+  }
+}
